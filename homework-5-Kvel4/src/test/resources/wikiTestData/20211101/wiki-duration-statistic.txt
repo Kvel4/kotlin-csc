@@ -1,0 +1,4 @@
+Threads = 4, Seconds = 7397
+Threads = 2, Seconds = 12098
+Threads = 1, Seconds = 19492
+Threads = 8, Seconds = 6904
